@@ -8,20 +8,20 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=924A90" alt="CSS3">
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=CA66C7" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
-  <img src = "https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=924A90">
-  <img src = "https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=924A90" alt="Java">
+  <img src = "https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=CA66C7" alt="Python">
+  <img src = "https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask">
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=CA66C7" alt="Java">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=924A90" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=CA66C7" alt="GitHub">
 </div>
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunah-rayCarv&theme=transparent&bg_color=000&border_color=924A90&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=FFF&hide_title=true&hide=stars" alt="GitHub Stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunah-rayCarv&layout=compact&bg_color=000&border_color=924A90&title_color=FFF&text_color=FFF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunah-rayCarv&theme=transparent&bg_color=000&border_color=CA66C7&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=FFF&hide_title=true&hide=stars" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunah-rayCarv&layout=compact&bg_color=000&border_color=CA66C7&title_color=FFF&text_color=FFF" alt="Top Languages">
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
   <a href="https://instagram.com/brufleur_" target="_blank">
     <img src="https://github.com/user-attachments/assets/ae05f200-378d-4c77-8a2e-d1955eee607e" alt="Instagram" height="25" width="25">
   </a>
-  <a href="mailto:brucarv.nah@gmail.com">
+  <a href="https://mailto:brucarv.nah@gmail.com" target="_blank">
     <img src="https://github.com/user-attachments/assets/29a0a47d-1f6a-4a02-8123-b9ca151d7b14" alt="Email" height="25" width="25">
   </a>
   <a href="https://www.linkedin.com/in/bruna-carvalho-41389326b/" target="_blank">
