@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=924A90" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript">
+  <img src = "https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=924A90">
+  <img src = "https://img.shields.io/badge/flask-000.svg?style=for-the-badge&logo=flask&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=924A90" alt="Java">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=924A90" alt="GitHub">
