@@ -42,7 +42,7 @@
   <a href="mailto:brucarv.nah@gmail.com">
     <img src="https://github.com/user-attachments/assets/29a0a47d-1f6a-4a02-8123-b9ca151d7b14" alt="Email" height="25" width="25">
   </a>
-  <a href="www.linkedin.com/in/bruna-carvalho-41389326b/" target="_blank">
+  <a href="www.linkedin.com/in/bruna-carvalho-41389326b" target="_blank">
     <img src="https://github.com/user-attachments/assets/7dfaacc4-7c80-420a-8a55-32bacef3d6af" alt="LinkedIn" height="25" width="25">
   </a>
 </div>
