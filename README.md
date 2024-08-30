@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=CA66C7" alt="Java">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=CA66C7" alt="GitHub">
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
 ### GitHub Stats
